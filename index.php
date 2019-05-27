@@ -1,5 +1,6 @@
 <?php
 
-	echo "Hello batman";
+	echo "Hello Batman";
+	echo "Hello Alfred"
 
 ?>
